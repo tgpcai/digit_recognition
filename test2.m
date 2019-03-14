@@ -9,7 +9,7 @@ clear all; close all; clc;
 % Write the transformed image to disk
 %imwrite(A_trans, 'newlena.jpg');
  
-%figure,imshow(A_trans);  ��ͼƬ����Ϊ28*28
+%figure,imshow(A_trans);  ¸ÄÍ¼Æ¬ÏñËØÎª28*28
 
 I=imread('4.png');
 J=imresize(I,[28,28]);
