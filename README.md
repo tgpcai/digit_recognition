@@ -1,0 +1,2 @@
+# digit_recognition
+TensorFlow下利用MNIST训练模型并识别自己手写的数字
